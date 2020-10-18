@@ -52,3 +52,5 @@ less sampleMath.c
 \end{thebibliography}
 \end{document}
 ```
+
+https://tex.stackexchange.com/questions/312/correctly-typesetting-a-tilde
