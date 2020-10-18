@@ -60,3 +60,8 @@ https://www.youtube.com/watch?v=7XhyqqUftl0
 ∑U
 \usepackage{amsmath}
 \usepackage[utf8x]{inputenc}
+
+
+https://www.youtube.com/watch?v=8x0KMerpwfs
+6:22
+subscript
