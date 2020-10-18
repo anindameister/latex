@@ -54,3 +54,6 @@ less sampleMath.c
 ```
 
 https://tex.stackexchange.com/questions/312/correctly-typesetting-a-tilde
+
+https://www.youtube.com/watch?v=7XhyqqUftl0
+- some symbols
