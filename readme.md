@@ -65,3 +65,7 @@ https://www.youtube.com/watch?v=7XhyqqUftl0
 https://www.youtube.com/watch?v=8x0KMerpwfs
 6:22
 subscript
+
+
+table in document
+https://www.overleaf.com/learn/latex/tables
